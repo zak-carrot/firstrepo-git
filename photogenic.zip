@@ -1,0 +1,1089 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+			<script>document.documentElement.classList.remove( 'no-js' );</script>
+		
+	<link rel='dns-prefetch' href='//freehtml5.b-cdn.net' />            <script type="text/javascript" id="wpuf-language-script">
+                var error_str_obj = {
+                    'required' : 'is required',
+                    'mismatch' : 'does not match',
+                    'validation' : 'is not valid'
+                }
+            </script>
+            <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.10 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Photogenic: Free Bootstrap Portfolio Website Template - FreeHTML5.co</title>
+	<meta name="description" content="Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all." />
+	<link rel="canonical" href="https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Photogenic: Free Bootstrap Portfolio Website Template - FreeHTML5.co" />
+	<meta property="og:description" content="Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all." />
+	<meta property="og:url" content="https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/" />
+	<meta property="og:site_name" content="FreeHTML5.co" />
+	<meta property="article:author" content="https://www.facebook.com/fh5co/" />
+	<meta property="article:published_time" content="2019-02-14T22:58:54+00:00" />
+	<meta property="og:image" content="https://freehtml5.b-cdn.net/wp-content/uploads/2019/02/photogenic.jpg" />
+	<meta property="og:image:width" content="640" />
+	<meta property="og:image:height" content="467" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="FreeHTML5.co Staff" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@fh5co" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="FreeHTML5.co Staff" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/","url":"https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/","name":"Photogenic: Free Bootstrap Portfolio Website Template - FreeHTML5.co","isPartOf":{"@id":"https://freehtml5.co/#website"},"primaryImageOfPage":{"@id":"https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/#primaryimage"},"image":{"@id":"https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/#primaryimage"},"thumbnailUrl":"https://freehtml5.b-cdn.net/wp-content/uploads/2019/02/photogenic.jpg","datePublished":"2019-02-14T22:58:54+00:00","dateModified":"2019-02-14T22:58:54+00:00","author":{"@id":"https://freehtml5.co/#/schema/person/5c23c59a88e6517b2484f5687190ec9f"},"description":"Free website templates, free HTML5 templates using Bootstrap framework. High quality free website templates for all.","breadcrumb":{"@id":"https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/#primaryimage","url":"https://freehtml5.b-cdn.net/wp-content/uploads/2019/02/photogenic.jpg","contentUrl":"https://freehtml5.b-cdn.net/wp-content/uploads/2019/02/photogenic.jpg","width":640,"height":467,"caption":"photogenic free html5 portfolio template"},{"@type":"BreadcrumbList","@id":"https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://freehtml5.co/"},{"@type":"ListItem","position":2,"name":"Photogenic: Free Bootstrap Portfolio Website Template"}]},{"@type":"WebSite","@id":"https://freehtml5.co/#website","url":"https://freehtml5.co/","name":"FreeHTML5.co","description":"Free Website Templates, Free HTML5 Templates Using Bootstrap Framework","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://freehtml5.co/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://freehtml5.co/#/schema/person/5c23c59a88e6517b2484f5687190ec9f","name":"FreeHTML5.co Staff","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://freehtml5.co/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/7b5624402b4d85471c4c18aa441f0960?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/7b5624402b4d85471c4c18aa441f0960?s=96&d=mm&r=g","caption":"FreeHTML5.co Staff"},"sameAs":["https://www.facebook.com/fh5co/","https://twitter.com/fh5co"],"url":"https://freehtml5.co/author/fh5co/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//m.servedby-buysellads.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="FreeHTML5.co &raquo; Feed" href="https://freehtml5.co/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FreeHTML5.co &raquo; Comments Feed" href="https://freehtml5.co/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FreeHTML5.co &raquo; Photogenic: Free Bootstrap Portfolio Website Template Comments Feed" href="https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/feed/" />
+<link rel="dns-prefetch" href="//srv.buysellads.com" /><script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/freehtml5.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.8"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{clip:auto!important;background-color:#ddd;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}figure{margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://freehtml5.b-cdn.net/wp-includes/css/classic-themes.min.css?ver=6.2.8' type='text/css' media='all' />
+<link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" id="kk-star-ratings-css" href="https://freehtml5.b-cdn.net/wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min.css?ver=5.4.5" type="text/css" media="all" /><link rel='stylesheet' id='stcr-style-css' href='https://freehtml5.b-cdn.net/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/stcr-style.css?ver=6.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://freehtml5.b-cdn.net/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1719563462' type='text/css' media='all' />
+<link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" id="affcoups-css" href="https://freehtml5.b-cdn.net/wp-content/plugins/affiliate-coupons/assets/dist/css/main.css?ver=1.6.7.8" type="text/css" media="all" /><link rel='stylesheet' id='dashicons-css' href='https://freehtml5.b-cdn.net/wp-includes/css/dashicons.min.css?ver=6.2.8' type='text/css' media='all' />
+<style id="freehtml5co_v9-fonts-css" media="all" data-src="https://fonts.googleapis.com/css?family=Open%20Sans:400,400i,700,700i&#038;display=swap">/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06FxZCJgvAQ.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style><link rel='stylesheet' id='freehtml5co_v9-global-css' href='https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/global.min.css?ver=9.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css' href='https://freehtml5.b-cdn.net/wp-content/plugins/wp-user-frontend/assets/css/jquery-ui-1.9.1.custom.css?ver=6.2.8' type='text/css' media='all' />
+<script type='text/javascript' src='//m.servedby-buysellads.com/monetization.js?ver=6.2.8' id='fh5_bsa_head-js'></script>
+<script type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/freehtml5.co\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/freehtml5.co\/wp-json\/wordpress-popular-posts","ID":2891,"token":"a6da7e7c53","lang":0,"debug":0}
+</script>
+<script type='text/javascript' src='https://freehtml5.b-cdn.net/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.1.3' id='wpp-js-js'></script>
+<script type='text/javascript' id='freehtml5co_v9-navigation-js-extra'>
+/* <![CDATA[ */
+var freehtml5co_v9ScreenReaderText = {"expand":"Expand child menu","collapse":"Collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/js/navigation.min.js?ver=9.0.1' id='freehtml5co_v9-navigation-js' async></script>
+<link rel="https://api.w.org/" href="https://freehtml5.co/wp-json/" /><link rel="alternate" type="application/json" href="https://freehtml5.co/wp-json/wp/v2/posts/2891" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://freehtml5.co/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://freehtml5.b-cdn.net/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.8" />
+<link rel='shortlink' href='https://freehtml5.co/?p=2891' />
+<link rel="alternate" type="application/json+oembed" href="https://freehtml5.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffreehtml5.co%2Fphotogenic-free-bootstrap-portfolio-website-template%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://freehtml5.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffreehtml5.co%2Fphotogenic-free-bootstrap-portfolio-website-template%2F&#038;format=xml" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "Photogenic: Free Bootstrap Portfolio Website Template",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "bestRating": "5",
+        "ratingCount": "294"
+    }
+}</script>			<style>.cmplz-hidden {
+					display: none !important;
+				}</style>            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+                    <style>
+
+        </style>
+        <link rel="pingback" href="https://freehtml5.co/xmlrpc.php"><link rel="preload" id="freehtml5co_v9-comments-preload" href="https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/comments.min.css?ver=9.0.1" as="style">
+<link rel="preload" id="freehtml5co_v9-content-preload" href="https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/content.min.css?ver=9.0.1" as="style">
+<link rel="preload" id="freehtml5co_v9-sidebar-preload" href="https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/sidebar.min.css?ver=9.0.1" as="style">
+<link rel="preload" id="freehtml5co_v9-widgets-preload" href="https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/widgets.min.css?ver=9.0.1" as="style">
+<link rel="preload" id="freehtml5co_v9-footer-widgets-preload" href="https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/footer-widgets.min.css?ver=9.0.1" as="style">
+      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://freehtml5.co");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '1e843587-5fda-45c3-83a5-c9962ad9d89c';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://freehtml5.b-cdn.net/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.11181d92-f3cb-414e-9b3e-6471e643153c";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['colors'] = {};
+oneSignal_options['notifyButton']['colors']['circle.background'] = '#28cc9e';
+oneSignal_options['notifyButton']['colors']['pulse.color'] = '#28cc9e';
+oneSignal_options['notifyButton']['colors']['dialog.button.background'] = '#28cc9e';
+oneSignal_options['notifyButton']['colors']['dialog.button.background.hovering'] = '#24b78d';
+oneSignal_options['notifyButton']['colors']['dialog.button.background.active'] = '#24b78d';
+                OneSignal.init(window._oneSignalInitOptions);
+                      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<style type="text/css">.site-title, .site-description { position: absolute; clip: rect(1px, 1px, 1px, 1px); }</style><link rel="amphtml" href="https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/amp/"><link rel="icon" href="https://freehtml5.b-cdn.net/wp-content/uploads/2019/03/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://freehtml5.b-cdn.net/wp-content/uploads/2019/03/favicon-32x32.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://freehtml5.b-cdn.net/wp-content/uploads/2019/03/favicon-32x32.png" />
+<meta name="msapplication-TileImage" content="https://freehtml5.b-cdn.net/wp-content/uploads/2019/03/favicon-32x32.png" />
+</head>
+
+<body data-cmplz=1 class="post-template-default single single-post postid-2891 single-format-standard wp-custom-logo wp-embed-responsive has-sidebar">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+		
+		
+<div class="site-branding">
+	<a href="https://freehtml5.co/" class="custom-logo-link" rel="home"><img width="161" height="50" src="https://freehtml5.b-cdn.net/wp-content/uploads/2018/02/logo.png" class="custom-logo" alt="FreeHTML5.co" decoding="async" sizes="(min-width: 960px) 60vw, 100vw" /></a>
+			<p class="site-title"><a href="https://freehtml5.co/" rel="home">FreeHTML5.co</a></p>
+		
+			<p class="site-description">
+			Free Website Templates, Free HTML5 Templates Using Bootstrap Framework		</p>
+		</div><!-- .site-branding -->
+
+		
+<nav id="site-navigation" class="main-navigation nav--toggle-sub nav--toggle-small icon-nav" aria-label="Main menu"
+	>
+	
+	
+	<button class="menu-toggle icon" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="false">
+					<svg viewBox="0 0 100 80" width="25" height="25" class="open-menu">
+	<rect width="100" height="15"></rect>
+	<rect y="30" width="100" height="15"></rect>
+	<rect y="60" width="100" height="15"></rect>
+</svg>
+
+
+					<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" class="close"><path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"/></svg>
+
+					</button>
+	<div class="primary-menu-container">
+		<ul id="primary-menu" class="menu"><li id="menu-item-2552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2552"><a href="/">Categories</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+<ul class="sub-menu">
+	<li id="menu-item-2741" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2741"><a href="https://freehtml5.co/category/premium/">Premium</a></li>
+	<li id="menu-item-2553" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2553"><a href="https://freehtml5.co/category/agency/">Agency</a></li>
+	<li id="menu-item-2554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2554"><a href="https://freehtml5.co/category/architect-builders/">Architect / Builders</a></li>
+	<li id="menu-item-2555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2555"><a href="https://freehtml5.co/category/business/">Business</a></li>
+	<li id="menu-item-2556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2556"><a href="https://freehtml5.co/category/church/">Church</a></li>
+	<li id="menu-item-2557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2557"><a href="https://freehtml5.co/category/coming-soon/">Coming Soon</a></li>
+	<li id="menu-item-2558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2558"><a href="https://freehtml5.co/category/corporate/">Corporate</a></li>
+	<li id="menu-item-2559" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2559"><a href="https://freehtml5.co/category/creative/">Creative</a></li>
+	<li id="menu-item-2560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2560"><a href="https://freehtml5.co/category/education/">Education</a></li>
+	<li id="menu-item-2561" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2561"><a href="https://freehtml5.co/category/health-fitness/">Health / Fitness</a></li>
+	<li id="menu-item-2562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2562"><a href="https://freehtml5.co/category/hotel-travel/">Hotel / Travel</a></li>
+	<li id="menu-item-2563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2563"><a href="https://freehtml5.co/category/landing-page/">Landing Page</a></li>
+	<li id="menu-item-2564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2564"><a href="https://freehtml5.co/category/law-firm/">Law Firm</a></li>
+	<li id="menu-item-2565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2565"><a href="https://freehtml5.co/category/minimal/">Minimal</a></li>
+	<li id="menu-item-2566" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2566"><a href="https://freehtml5.co/category/news/">News</a></li>
+	<li id="menu-item-2567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2567"><a href="https://freehtml5.co/category/non-profit/">Non-profit</a></li>
+	<li id="menu-item-2568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2568"><a href="https://freehtml5.co/category/one-page/">One Page</a></li>
+	<li id="menu-item-2569" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2569"><a href="https://freehtml5.co/category/personal/">Personal</a></li>
+	<li id="menu-item-2570" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2570"><a href="https://freehtml5.co/category/photography/">Photography</a></li>
+	<li id="menu-item-2571" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2571"><a href="https://freehtml5.co/category/portfolio/">Portfolio</a></li>
+	<li id="menu-item-2573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2573"><a href="https://freehtml5.co/category/real-estate/">Real Estate</a></li>
+	<li id="menu-item-2574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2574"><a href="https://freehtml5.co/category/restaurants-bars/">Restaurants / Bars</a></li>
+	<li id="menu-item-2575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2575"><a href="https://freehtml5.co/category/resume-vcard/">Resume / VCard</a></li>
+	<li id="menu-item-2576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2576"><a href="https://freehtml5.co/category/shop-ecommerce/">Shop / eCommerce</a></li>
+	<li id="menu-item-2577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2577"><a href="https://freehtml5.co/category/wedding/">Wedding</a></li>
+</ul>
+</li>
+<li id="menu-item-2578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2578"><a href="/blog/">Blog</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+<ul class="sub-menu">
+	<li id="menu-item-2592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2592"><a href="/blog/">Latest</a></li>
+	<li id="menu-item-2589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2589"><a href="/blog/category/collections/">Collections</a></li>
+	<li id="menu-item-2590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2590"><a href="/blog/category/resources/">Resourses</a></li>
+	<li id="menu-item-2591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2591"><a href="/blog/category/reviews/">Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-2582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2582"><a href="https://freehtml5.co/custom-web-services/">Hire us</a></li>
+<li id="menu-item-2583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2583"><a href="https://freehtml5.co/faq/">FAQ</a></li>
+<li id="menu-item-2742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2742"><a href="https://freehtml5.co/deals/">Deals &#038; Coupons</a></li>
+</ul>
+		<ul id="secondary-menu" class="menu"><li id="menu-item-2516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2516"><a href="https://freehtml5.co/premium-benefits/">Premium Membership</a></li>
+<li id="menu-item-2521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2521"><a href="https://freehtml5.co/login/">Login</a></li>
+</ul>	</div>
+</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+<link rel='stylesheet' id='freehtml5co_v9-content-css' href='https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/content.min.css?ver=9.0.1' type='text/css' media='all' />
+	<main id="primary" class="site-main">
+		
+<article id="post-2891" class="entry post-2891 post type-post status-publish format-standard has-post-thumbnail hentry category-personal category-photography category-portfolio tag-bootstrap-4 tag-free tag-free-template tag-isotope tag-owlcarousel tag-portfolio">
+	
+<header class="entry-header">
+	<h1 class="entry-title entry-title-singular">Photogenic: Free Bootstrap Portfolio Website Template</h1><div class="entry-meta">
+				<span class="posted-on">
+				Posted on <time class="entry-date published updated" datetime="2019-02-14T22:58:54+00:00">February 14, 2019</time>			</span>
+							<span class="category-links term-links">
+					 in <a href="https://freehtml5.co/category/personal/" rel="tag">Personal</a>, <a href="https://freehtml5.co/category/photography/" rel="tag">Photography</a>, <a href="https://freehtml5.co/category/portfolio/" rel="tag">Portfolio</a>				</span>
+				</div><!-- .entry-meta -->
+	<div class="post-thumbnail">
+		<img width="640" height="467" src="https://freehtml5.b-cdn.net/wp-content/uploads/2019/02/photogenic.jpg" class="skip-lazy wp-post-image" alt="photogenic free html5 portfolio template" decoding="async" srcset="https://freehtml5.b-cdn.net/wp-content/uploads/2019/02/photogenic.jpg 640w, https://freehtml5.b-cdn.net/wp-content/uploads/2019/02/photogenic-351x256.jpg 351w, https://freehtml5.b-cdn.net/wp-content/uploads/2019/02/photogenic-313x228.jpg 313w" sizes="(min-width: 960px) 60vw, 100vw" />	</div><!-- .post-thumbnail -->
+	</header><!-- .entry-header -->
+
+<div class="entry-content">
+	<p>Photogenic is a free html5 bootstrap template perfect for any type of work. Built with the latest technology for web development such as HTML5, CSS3, Sass, Owl Carousel, Isotope and jQuery.</p>
+<p>Pro version coming soon&#8230;</p>
+<div class="single-demo-download"><a class="btn" href="https://freehtml5.co/preview/?item=photogenic-free-bootstrap-portfolio-website-template"><small>Free Version</small>Demo &amp; Download <small>Downloaded <strong>9,170</strong> times</small></a></div><style>.single-demo-download{display:grid;grid-template-columns:repeat(auto-fit,minmax(10em,1fr));grid-gap:2rem;text-align:center;}.single-demo-download .btn{font-size:1.5rem;}.single-demo-download small{display:block;font-size:1rem;}.btn-danger{background-color:#ff4545;border-color:#ff4545;}.btn-danger:hover{background-color: #ff1f1f;}</style>
+
+<div class="kk-star-ratings kksr-auto kksr-align-center kksr-valign-bottom"
+    data-payload='{&quot;align&quot;:&quot;center&quot;,&quot;id&quot;:&quot;2891&quot;,&quot;slug&quot;:&quot;default&quot;,&quot;valign&quot;:&quot;bottom&quot;,&quot;ignore&quot;:&quot;&quot;,&quot;reference&quot;:&quot;auto&quot;,&quot;class&quot;:&quot;&quot;,&quot;count&quot;:&quot;294&quot;,&quot;legendonly&quot;:&quot;&quot;,&quot;readonly&quot;:&quot;&quot;,&quot;score&quot;:&quot;4.5&quot;,&quot;starsonly&quot;:&quot;&quot;,&quot;best&quot;:&quot;5&quot;,&quot;gap&quot;:&quot;5&quot;,&quot;greet&quot;:&quot;Rate this template&quot;,&quot;legend&quot;:&quot;4.5\/5 - (294 votes)&quot;,&quot;size&quot;:&quot;24&quot;,&quot;title&quot;:&quot;Photogenic: Free Bootstrap Portfolio Website Template&quot;,&quot;width&quot;:&quot;128&quot;,&quot;_legend&quot;:&quot;{score}\/{best} - ({count} {votes})&quot;,&quot;font_factor&quot;:&quot;1.25&quot;}'>
+            
+<div class="kksr-stars">
+    
+<div class="kksr-stars-inactive">
+            <div class="kksr-star" data-star="1" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="2" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="3" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="4" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" data-star="5" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+    </div>
+    
+<div class="kksr-stars-active" style="width: 128px;">
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+            <div class="kksr-star" style="padding-right: 5px">
+            
+
+<div class="kksr-icon" style="width: 24px; height: 24px;"></div>
+        </div>
+    </div>
+</div>
+                
+
+<div class="kksr-legend" style="font-size: 19.2px;">
+            4.5/5 - (294 votes)    </div>
+    </div>
+</div><!-- .entry-content -->
+<footer class="entry-footer">
+	<div class="entry-taxonomies">
+			<span class="tag-links term-links">
+			Tagged <a href="https://freehtml5.co/tag/bootstrap-4/" rel="tag">bootstrap 4</a>, <a href="https://freehtml5.co/tag/free/" rel="tag">free</a>, <a href="https://freehtml5.co/tag/free-template/" rel="tag">free template</a>, <a href="https://freehtml5.co/tag/isotope/" rel="tag">isotope</a>, <a href="https://freehtml5.co/tag/owlcarousel/" rel="tag">owlcarousel</a>, <a href="https://freehtml5.co/tag/portfolio/" rel="tag">portfolio</a>		</span>
+		</div><!-- .entry-taxonomies -->
+
+	<div class="entry-actions">
+	</div><!-- .entry-actions -->
+</footer><!-- .entry-footer -->
+</article><!-- #post-2891 -->
+
+			<nav class="navigation post-navigation" aria-label="Posts">
+				<h2 class="screen-reader-text">Post navigation</h2>
+				<div class="nav-links">
+					<div class="nav-previous">
+						<a href="https://freehtml5.co/visio-responsive-html5-template-for-photographers/" rel="prev"><div class="post-navigation-sub"><span>Previous</span></div>Visio<br><span> Responsive HTML5 Template for Photographers</span></a>					</div>
+					<div class="nav-next">
+						<a href="https://freehtml5.co/girly-free-personal-website-template-with-bright-colors/" rel="next"><div class="post-navigation-sub"><span>Next</span></div>Girly<br><span> Free Personal Website Template with Bright colors</span></a>					</div>
+				</div><!-- .nav-links -->
+			</nav><!-- .navigation -->
+			<link rel='stylesheet' id='freehtml5co_v9-comments-css' href='https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/comments.min.css?ver=9.0.1' type='text/css' media='all' />
+<div id="comments" class="comments-area">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/photogenic-free-bootstrap-portfolio-website-template/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://freehtml5.co/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='2891' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="3dfb9e9cae" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="100"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	</div><!-- #comments -->
+	</main><!-- #primary -->
+<link rel='stylesheet' id='freehtml5co_v9-sidebar-css' href='https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/sidebar.min.css?ver=9.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='freehtml5co_v9-widgets-css' href='https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/widgets.min.css?ver=9.0.1' type='text/css' media='all' />
+<aside id="secondary" class="primary-sidebar widget-area" aria-label="Sidebar">
+	
+<section id="wpp-2" class="widget popular-posts">
+<h3 class="widget-title">Popular Templates</h3>
+
+
+<ul class="wpp-list wpp-list-with-thumbnails">
+<li>
+<a href="https://freehtml5.co/multipurpose-free-fully-responsive-website-template-with-cta/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3116-featured-80x60.jpg" width="80" height="60" alt="multipurpose call-to-action template" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/multipurpose-free-fully-responsive-website-template-with-cta/" class="wpp-post-title" target="_self">Multipurpose: Free Fully Responsive Website Template with CTA</a>
+</li>
+<li>
+<a href="https://freehtml5.co/roxy-free-multi-purpose-modern-website-template/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3096-featured-80x60.jpg" width="80" height="60" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/roxy-free-multi-purpose-modern-website-template/" class="wpp-post-title" target="_self">Roxy: Free Multi-Purpose Modern Website Template</a>
+</li>
+<li>
+<a href="https://freehtml5.co/moon-free-minimal-multipurpose-bootstrap-template/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/2936-featured-80x60.jpg" width="80" height="60" alt="moon free multipurpose html bootstrap template" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/moon-free-minimal-multipurpose-bootstrap-template/" class="wpp-post-title" target="_self">Moon: Free Minimal Multipurpose Bootstrap Template</a>
+</li>
+<li>
+<a href="https://freehtml5.co/resto-free-responsive-bootstrap-4-template-for-restaurants/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/2995-featured-80x60.jpg" width="80" height="60" alt="Resto - Free Responsive Restaurant Website Template" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/resto-free-responsive-bootstrap-4-template-for-restaurants/" class="wpp-post-title" target="_self">Resto: Free Responsive Bootstrap 4 Template for Restaurants</a>
+</li>
+<li>
+<a href="https://freehtml5.co/shahala-free-html5-news-blog-template/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3084-featured-80x60.jpg" width="80" height="60" alt="shahala: free blog &amp; news bootstrap template" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/shahala-free-html5-news-blog-template/" class="wpp-post-title" target="_self">Shahala: Free HTML5 News Blog Template</a>
+</li>
+<li>
+<a href="https://freehtml5.co/author-free-html5-website-template-for-book-authors/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/2981-featured-80x60.jpg" width="80" height="60" alt="free HTML template for authors" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/author-free-html5-website-template-for-book-authors/" class="wpp-post-title" target="_self">Author: Free HTML5 Website Template for Book Authors</a>
+</li>
+</ul>
+
+</section>
+<section id="custom_html-6" class="widget_text widget widget_custom_html"><h3 class="widget-title">Deals &#038; Coupons</h3><div class="textwidget custom-html-widget"><div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+	<div class="carousel-inner">
+		<div class="carousel-item active">
+			<div class="affcoups" data-template="widget"><div class="affcoups-widget"><div class="affcoups-coupon affcoups-coupon--style-standard" id="affcoups-coupon-2739" data-affcoups-coupon-id="2739" data-affcoups-coupon-title="Bluehost"><div class="affcoups-coupon__header"><a class="affcoups-coupon__thumbnail" href="https://bluehost.sjv.io/6b0WmQ" title="Bluehost" target="_blank" rel="nofollow noopener"><img class="affcoups-coupon__image" src="https://freehtml5.b-cdn.net/wp-content/uploads/2023/01/bluehost-coupon-2_95-480x270.jpg" alt="Bluehost powerful web hosting ($2.95 per month)" /></a>                            <span class="affcoups-coupon__discount">70% OFF + free domain</span></div><div class="affcoups-coupon__content"><span class="affcoups-coupon__title">Bluehost</span><div class="affcoups-coupon__description">One of the best web hosting providers in the world!    </div></div><div class="affcoups-coupon__footer"><a class="affcoups-coupon__button" href="https://bluehost.sjv.io/6b0WmQ" title="Go to the deal" rel="nofollow noopener" target="_blank"><span class="affcoups-coupon__button-text">Go to the deal</span></a></div></div></div></div><!-- /.affcoups -->
+		</div>
+		<div class="carousel-item">
+			<div class="affcoups" data-template="widget"><div class="affcoups-widget"><div class="affcoups-coupon affcoups-coupon--style-standard" id="affcoups-coupon-3290" data-affcoups-coupon-id="3290" data-affcoups-coupon-title="Envato WordPress Themes"><div class="affcoups-coupon__header"><a class="affcoups-coupon__thumbnail" href="https://1.envato.market/P0ejoX" title="Envato Market" target="_blank" rel="nofollow noopener"><img class="affcoups-coupon__image" src="https://freehtml5.b-cdn.net/wp-content/uploads/2023/01/envato-wordpress-480x270.jpg" alt="Best selling WordPress themes from Themeforest" /></a>                            <span class="affcoups-coupon__discount">Up to 50% OFF</span></div><div class="affcoups-coupon__content"><span class="affcoups-coupon__title">Envato Market</span><div class="affcoups-coupon__description">Up to 50% off on selected WordPress Themes    </div></div><div class="affcoups-coupon__footer"><a class="affcoups-coupon__button" href="https://1.envato.market/P0ejoX" title="Go to the deal" rel="nofollow noopener" target="_blank"><span class="affcoups-coupon__button-text">Go to the deal</span></a></div></div></div></div><!-- /.affcoups -->
+		</div>
+		<div class="carousel-item">
+			<div class="affcoups" data-template="widget"><div class="affcoups-widget"><div class="affcoups-coupon affcoups-coupon--style-standard" id="affcoups-coupon-2715" data-affcoups-coupon-id="2715" data-affcoups-coupon-title="Creative Tim"><div class="affcoups-coupon__header"><a class="affcoups-coupon__thumbnail" href="https://secure.2checkout.com/affiliate.php?ACCOUNT=CREATIV&#038;AFFILIATE=114892&#038;PATH=http%3A%2F%2Fwww.creative-tim.com%3FAFFILIATE%3D114892" title="Creative Tim" target="_blank" rel="nofollow noopener"><img class="affcoups-coupon__image" src="https://freehtml5.b-cdn.net/wp-content/uploads/2019/01/creative-tim-coupon.jpg" alt="Creative Tim coupon" /></a>                            <span class="affcoups-coupon__discount">20% OFF</span></div><div class="affcoups-coupon__content"><span class="affcoups-coupon__title">Creative Tim</span><div class="affcoups-coupon__description">Creative Tim develops awesome premium Bootstrap themes, templates, UI Kits and more!    </div><div class="affcoups-coupon__code"><div class="affcoups-clipboard" data-affcoups-coupon-id="2715" data-affcoups-clipboard="true" data-clipboard-text="FREEHTML5" data-affcoups-clipboard-confirmation-text="Copied!"><span class="affcoups-clipboard__text">FREEHTML5</span></div></div></div><div class="affcoups-coupon__footer"><a class="affcoups-coupon__button" href="https://secure.2checkout.com/affiliate.php?ACCOUNT=CREATIV&#038;AFFILIATE=114892&#038;PATH=http%3A%2F%2Fwww.creative-tim.com%3FAFFILIATE%3D114892" title="Go to the deal" rel="nofollow noopener" target="_blank"><span class="affcoups-coupon__button-text">Go to the deal</span></a></div></div></div></div><!-- /.affcoups -->
+		</div>
+	</div>
+</div>
+<p class="text-center">
+	<a href="/deals/">More deals...</a>
+</p></div></section>
+<section id="wpp-3" class="widget popular-posts">
+<h3 class="widget-title">Popular Posts</h3>
+
+
+<ul class="wpp-list wpp-list-with-thumbnails">
+<li>
+<a href="https://freehtml5.co/blog/free-html5-responsive-admin-dashboard-templates/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/1329-featured-75x75.jpg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/blog/free-html5-responsive-admin-dashboard-templates/" class="wpp-post-title" target="_self">55+ Free HTML5 Responsive Admin Dashboard Templates 2019</a>
+</li>
+<li>
+<a href="https://freehtml5.co/blog/5-best-instagram-video-downloaders-in-2025-complete-comparison-guide/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3849-featured-75x75.jpg" srcset="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3849-featured-75x75.jpg, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3849-featured-75x75@1.5x.jpg 1.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3849-featured-75x75@2x.jpg 2x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3849-featured-75x75@2.5x.jpg 2.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3849-featured-75x75@3x.jpg 3x"  width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/blog/5-best-instagram-video-downloaders-in-2025-complete-comparison-guide/" class="wpp-post-title" target="_self">5 Best Instagram Video Downloaders in 2025: Complete Comparison Guide</a>
+</li>
+<li>
+<a href="https://freehtml5.co/blog/free-premium-coming-soon-templates/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3374-featured-75x75.jpg" srcset="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3374-featured-75x75.jpg, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3374-featured-75x75@1.5x.jpg 1.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3374-featured-75x75@2x.jpg 2x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3374-featured-75x75@2.5x.jpg 2.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3374-featured-75x75@3x.jpg 3x"  width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/blog/free-premium-coming-soon-templates/" class="wpp-post-title" target="_self">Best 30+ Free &#038; Premium Coming Soon Page Templates in 2023</a>
+</li>
+<li>
+<a href="https://freehtml5.co/blog/whats-new-in-html5-in-2025-key-features-you-shouldnt-miss/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3749-featured-75x75.jpg" srcset="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3749-featured-75x75.jpg, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3749-featured-75x75@1.5x.jpg 1.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3749-featured-75x75@2x.jpg 2x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3749-featured-75x75@2.5x.jpg 2.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3749-featured-75x75@3x.jpg 3x"  width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/blog/whats-new-in-html5-in-2025-key-features-you-shouldnt-miss/" class="wpp-post-title" target="_self">What’s New in HTML5 in 2025? Key Features You Shouldn’t Miss</a>
+</li>
+<li>
+<a href="https://freehtml5.co/blog/ultimate-guide-web-application-design-2024/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3509-featured-75x75.jpg" srcset="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3509-featured-75x75.jpg, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3509-featured-75x75@1.5x.jpg 1.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3509-featured-75x75@2x.jpg 2x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3509-featured-75x75@2.5x.jpg 2.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3509-featured-75x75@3x.jpg 3x"  width="75" height="75" alt="A mobile phone screen showcasing user interface elements" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/blog/ultimate-guide-web-application-design-2024/" class="wpp-post-title" target="_self">Ultimate Guide to Web Application Design: Best Practices, Trends, and Tools for 2024</a>
+</li>
+<li>
+<a href="https://freehtml5.co/blog/how-to-build-an-affiliate-style-review-site-using-a-free-html5-template/" target="_self"><img src="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3905-featured-75x75.jpg" srcset="https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3905-featured-75x75.jpg, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3905-featured-75x75@1.5x.jpg 1.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3905-featured-75x75@2x.jpg 2x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3905-featured-75x75@2.5x.jpg 2.5x, https://freehtml5.b-cdn.net/wp-content/uploads/wordpress-popular-posts/3905-featured-75x75@3x.jpg 3x"  width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async"  loading="lazy" /></a>
+<a href="https://freehtml5.co/blog/how-to-build-an-affiliate-style-review-site-using-a-free-html5-template/" class="wpp-post-title" target="_self">How to Build an Affiliate-Style Review Site Using a Free HTML5 Template</a>
+</li>
+</ul>
+
+</section>
+<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://freehtml5.co/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></section></aside><!-- #secondary -->
+
+	<footer id="colophon" class="site-footer">
+		<link rel='stylesheet' id='freehtml5co_v9-footer-widgets-css' href='https://freehtml5.b-cdn.net/wp-content/themes/freehtml5co_v9/assets/css/footer-widgets.min.css?ver=9.0.1' type='text/css' media='all' />
+<aside id="footer-widgets" class="footer-widgets-area widget-area">
+	<section id="custom_html-3" class="widget_text widget widget_custom_html"><h3 class="widget-title">About Us</h3><div class="textwidget custom-html-widget">FreeHTML5.co is dedicated to provide extraordinary and premium-like free html5 bootstrap templates for web designers and developers. Feel free to <a href="https://freehtml5.co/contact/">contact us</a> if you have any questions.</div></section><section id="block-2" class="widget widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-3">
+<div class="wp-block-column is-layout-flow">
+<ul><li><a href="https://freehtml5.co/about/">About Us</a></li><li><a href="https://freehtml5.co/faq/#faq-license">Template Licenses</a></li><li><a href="https://freehtml5.co/terms/">Terms of Service</a></li><li><a href="https://www.buysellads.com/buy/detail/271247/">Advertise</a></li><li><a href="https://freehtml5.co/contact/">Contact</a></li><li><a href="https://feeds.feedburner.com/fh5co">RSS Feeds</a></li><li><a href="https://feedburner.google.com/fb/a/mailverify?uri=fh5co&amp;loc=en_US">RSS via Email</a></li></ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<ul><li><a href="https://freehtml5.co/blog/">Blog</a></li><li><a href="https://freehtml5.co/blog/category/collections/">Collections</a></li><li><a href="https://freehtml5.co/blog/category/resources/">Resources</a></li><li><a href="https://freehtml5.co/blog/category/reviews/">Reviews</a></li><li><a href="https://freehtml5.co/faq/">FAQ</a></li><li><a href="https://freehtml5.co/write-for-us/">Write for Us</a></li></ul>
+</div>
+</div>
+</section><section id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><p style="text-align: center;"><span style="font-size: 3rem; color: #28cc9e;">&gt; 1 Million</span><br>
+Downloads &amp; counting...</p></div></section></aside><!-- #footer-widgets -->
+
+<div class="site-info">
+	&copy; 2015 - 2026 <a href="https://freehtml5.co">FreeHTML5.co</a>. All Rights Reserved.<span class="sep"> | </span><a class="privacy-policy-link" href="https://freehtml5.co/policy/" rel="privacy-policy">Privacy Policy</a></div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type="text/plain" data-service="google-analytics" data-category="statistics">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-65003908-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/plain" data-service="google-analytics" data-category="statistics" async data-cmplz-src="https://www.googletagmanager.com/gtag/js?id=UA-65003908-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-65003908-1');
+</script>
+<script>
+(function(){
+	if(typeof _bsa !== 'undefined' && _bsa) {
+		_bsa.init('flexbar', 'CKYDLK3M', 'placement:freehtml5co');
+		_bsa.init('stickybox', 'CKYDL2QY', 'placement:freehtml5co');
+	}
+})();
+</script>
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 bottom-right-view-preferences optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Manage Cookie Consent</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="Close dialog">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">We use technologies like cookies to store and/or access device information. We do this to improve browsing experience and to show (non-) personalized ads. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Functional</span>
+							<span class='cmplz-always-active'>
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox"
+										   id="cmplz-functional-optin"
+										   data-category="cmplz_functional"
+										   class="cmplz-consent-checkbox cmplz-functional"
+										   size="40"
+										   value="1"/>
+									<label class="cmplz-label" for="cmplz-functional-optin" tabindex="0"><span class="screen-reader-text">Functional</span></label>
+								</span>
+								Always active							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Preferences</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-preferences-optin"
+									   data-category="cmplz_preferences"
+									   class="cmplz-consent-checkbox cmplz-preferences"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-preferences-optin" tabindex="0"><span class="screen-reader-text">Preferences</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Statistics</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-statistics-optin"
+									   data-category="cmplz_statistics"
+									   class="cmplz-consent-checkbox cmplz-statistics"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-statistics-optin" tabindex="0"><span class="screen-reader-text">Statistics</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">The technical storage or access that is used exclusively for statistical purposes.</span>
+					<span class="cmplz-description-statistics-anonymous">The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-marketing-optin"
+									   data-category="cmplz_marketing"
+									   class="cmplz-consent-checkbox cmplz-marketing"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-marketing-optin" tabindex="0"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Manage options</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Manage services</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Manage {vendor_count} vendors</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">Read more about these purposes</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accept</button>
+		<button class="cmplz-btn cmplz-deny">Deny</button>
+		<button class="cmplz-btn cmplz-view-preferences">View preferences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Save preferences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">View preferences</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Manage consent</button>
+
+</div><style id='wp-block-list-inline-css' type='text/css'>
+ol,ul{box-sizing:border-box}ol.has-background,ul.has-background{padding:1.25em 2.375em}
+</style>
+<style id='wp-block-columns-inline-css' type='text/css'>
+.wp-block-columns{align-items:normal!important;box-sizing:border-box;display:flex;flex-wrap:wrap!important;margin-bottom:1.75em}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--theme-primary: #e36d60;--wp--preset--color--theme-secondary: #41848f;--wp--preset--color--theme-red: #C0392B;--wp--preset--color--theme-green: #27AE60;--wp--preset--color--theme-blue: #2980B9;--wp--preset--color--theme-yellow: #F1C40F;--wp--preset--color--theme-black: #1C2833;--wp--preset--color--theme-grey: #95A5A6;--wp--preset--color--theme-white: #ECF0F1;--wp--preset--color--custom-daylight: #97c0b7;--wp--preset--color--custom-sun: #eee9d1;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 16px;--wp--preset--font-size--medium: 25px;--wp--preset--font-size--large: 31px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--larger: 39px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-3.wp-container-3{flex-wrap:nowrap;}
+</style>
+<script type='text/javascript' id='kk-star-ratings-js-extra'>
+/* <![CDATA[ */
+var kk_star_ratings = {"action":"kk-star-ratings","endpoint":"https:\/\/freehtml5.co\/wp-admin\/admin-ajax.php","nonce":"bd85b6b413"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://freehtml5.b-cdn.net/wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min.js?ver=5.4.5' id='kk-star-ratings-js'></script>
+<script type='text/javascript' src='https://freehtml5.b-cdn.net/wp-includes/js/comment-reply.min.js?ver=6.2.8' id='comment-reply-js'></script>
+<script type='text/javascript' id='cmplz-cookiebanner-js-extra'>
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"10","version":"7.1.0","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/freehtml5.co\/wp-json\/complianz\/v1\/","locale":"lang=en&locale=en_US","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"15","cookie_path":"\/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"Click to accept {category} cookies and enable this content","css_file":"https:\/\/freehtml5.co\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=10","page_links":{"eu":{"cookie-statement":{"title":"Cookie Policy ","url":"https:\/\/freehtml5.co\/cookie-policy-eu\/"},"privacy-statement":{"title":"Privacy Policy","url":"https:\/\/freehtml5.co\/policy\/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Click to accept {category} cookies and enable this content"};
+/* ]]> */
+</script>
+<script defer type='text/javascript' src='https://freehtml5.b-cdn.net/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1719563462' id='cmplz-cookiebanner-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=1.0.0' id='remote_sdk-js'></script>
+<script defer type='text/javascript' src='https://freehtml5.b-cdn.net/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1719563459' id='akismet-frontend-js'></script>
+		<script>
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+		</script>
+		
+<!-- This site converts visitors into subscribers and customers with the MailOptin WordPress plugin v2.2.69.1 - https://mailoptin.io -->
+<div id='ytBkdBNVuw' class="moOptinForm mo-optin-form-lightbox mo-has-name-email mo-optin-has-custom-field" data-optin-type='lightbox' style='display: none;position: fixed;zoom: 1;text-align: center;z-index: 99999999;left: 0;top: 0;width: 100%;padding: 0 10px;height: 100%;overflow: auto;background: rgba(0,0,0,0.7)'><div class='mo-optin-form-container' id='ytBkdBNVuw_lightbox_container' style='position:relative;margin: 0 auto;'><script type="text/javascript">var ytBkdBNVuw = ytBkdBNVuw_lightbox = {"optin_uuid":"ytBkdBNVuw","optin_campaign_id":1,"optin_campaign_name":"Free Download","optin_type":"lightbox","post_id":2891,"cookie":0,"success_cookie":1,"global_cookie":0,"global_success_cookie":0,"success_message":"Thanks, please check your inbox for the email confirmation.<br><br>\nOnce confirmed you will be able to download all the free templates from our website \ud83c\udf89<br><br>\nMake sure to check your spam folder if you don't see the confirmation email within 5 minutes.","name_field_required":true,"is_split_test":false,"required_custom_fields":[],"click_launch_status":true,"success_action":"success_message","state_after_conversion":"success_message_shown","test_mode":false,"icon_close":false,"body_close":true,"keyClose":true,"unexpected_error":"Unexpected error. Please try again.","email_missing_error":"Please enter a valid email.","name_missing_error":"Please enter a name.","custom_field_required_error":"A required field is empty.","note_acceptance_error":"Please accept our terms.","honeypot_error":"Your submission has been flagged as potential spam.","effects":"","device_targeting_hide_desktop":false,"device_targeting_hide_tablet":false,"device_targeting_hide_mobile":false};</script><style class="mo-optin-form-stylesheet" type="text/css">html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal { border: 3px solid #fff; width: 100%; max-width: 600px; position: relative; margin: auto; border-radius: 10px; background: #fff; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; padding: 1.5em 2.5em; box-shadow: 8px 0 20px 14px rgba(0, 0, 0, 0.08) } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal h2.moElegance_header { color: #000; margin: 0; line-height: 1.5; text-align: center; text-transform: capitalize } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal .moElegance_description { line-height: 1.5; text-align: center; color: #777; margin-bottom: 2em; } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal .moElegance_note { line-height: 1.5; text-align: center; color: #000; margin-top: 10px } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal input.moEleganceModal_input_fields, html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal input.mo-optin-form-custom-field.text-field, html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal input.mo-optin-form-custom-field.password-field, html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal input.mo-optin-form-custom-field.date-field, html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal select.mo-optin-form-custom-field, html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal textarea.mo-optin-form-custom-field.textarea-field { display: block; width: 100%; max-width: 100%; padding: 10px; margin: 0.5em auto 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; font-size: 16px; border: 1px solid #e3e3e3; outline: 1px solid #e3e3e3; background-color: #ffffff; } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal textarea.mo-optin-form-custom-field.textarea-field { min-height: 80px; } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal input.moEleganceModal_button { display: block; margin: 10px auto 0; text-decoration: none; text-align: center; padding: 0.5em 0; font-size: 18px; text-transform: uppercase; background: #2785C8; color: #ffffff; line-height: normal; border: 0 none; border-radius: 0; width: 100%; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal .moEleganceModal_button:hover { background: #52A9E7; } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal .moEleganceModal_button:active { background: #fff; } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal .moEleganceModalclose { position: absolute; right: 12px; top: 16px; width: 24px; height: 24px; background-repeat: no-repeat; cursor: pointer } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal .mo-optin-error { display: none; background: #FF0000; color: #ffffff; text-align: center; padding: .2em; margin: 0 auto -9px; width: 100%; font-size: 16px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; border: 1px solid #FF0000; outline: 1px solid #FF0000; } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal a.moEleganceModalclose { background-image: url(https://freehtml5.b-cdn.net/wp-content/plugins/mailoptin/src/core/src/assets/images/optin-themes/elegance-close.png); font-size: 9px; margin: auto; display: block; text-align: center } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal .mo-optin-fields-wrapper .list_subscription-field:not(select), html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal .mo-optin-fields-wrapper .mo-optin-form-custom-field.checkbox-field, html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox.moEleganceModal .mo-optin-fields-wrapper .mo-optin-form-custom-field.radio-field { margin-top: 0.5em; }div#ytBkdBNVuw *, div#ytBkdBNVuw *:before, div#ytBkdBNVuw *:after {box-sizing: border-box;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;}div#ytBkdBNVuw_lightbox_container div#ytBkdBNVuw_lightbox .mo-optin-field:focus {outline:0}div#ytBkdBNVuw_lightbox_container div#ytBkdBNVuw_lightbox .mo-optin-form-submit-button:focus {outline:0}div#ytBkdBNVuw_lightbox_container div.mo-optin-powered-by{margin:5px auto 2px;text-align:center;}div#ytBkdBNVuw_lightbox_container div.mo-optin-powered-by a {font-size:16px !important; text-decoration: none !important;box-shadow:none !important;border-bottom-width:0px !important;cursor:pointer !important;}div#ytBkdBNVuw_lightbox_container .mo-acceptance-checkbox {background-color: #fff;line-height: 0;border: 1px solid #bbb;width: 16px;min-width: 16px;height: 16px;margin: 0 5px 0 0 !important;outline: 0;text-align: center;vertical-align: middle;clear: none;cursor: pointer;}div#ytBkdBNVuw_lightbox_container .mo-acceptance-label {cursor:pointer}div#ytBkdBNVuw_lightbox_container div#ytBkdBNVuw_lightbox p {padding:0px !important;margin:0px !important;color:inherit;}div#ytBkdBNVuw .mo-optin-form-wrapper label {color:inherit;font-weight: normal;margin: 0;padding:0;}div#ytBkdBNVuw div#ytBkdBNVuw_lightbox_container div#ytBkdBNVuw_lightbox input[type=submit] {-webkit-appearance: none;}div#ytBkdBNVuw div#ytBkdBNVuw_lightbox_container div#ytBkdBNVuw_lightbox input {z-index: auto;}div#ytBkdBNVuw.mo-cta-button-flag .mo-optin-form-note .mo-acceptance-label {display:none;}div#ytBkdBNVuw .mailoptin-video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; } div#ytBkdBNVuw .mailoptin-video-container iframe, div#ytBkdBNVuw .mailoptin-video-container object, div#ytBkdBNVuw .mailoptin-video-container embed, div#ytBkdBNVuw .mailoptin-video-container video { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } #ytBkdBNVuw.moModal a.mo-close-modal { position: absolute; top: -15px; right: -14px; display: block; width: 30px; height: 30px; text-indent: -9999px; background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAABGdBTUEAANjr9RwUqgAAACBjSFJNAABtmAAAc44AAPJxAACDbAAAg7sAANTIAAAx7AAAGbyeiMU/AAAG7ElEQVR42mJkwA8YoZjBwcGB6fPnz4w/fvxg/PnzJ2N6ejoLFxcX47Rp036B5Dk4OP7z8vL+P3DgwD+o3v9QjBUABBALHguZoJhZXV2dVUNDgxNIcwEtZnn27Nl/ZmZmQRYWFmag5c90dHQY5OXl/z98+PDn1atXv79+/foPUN9fIP4HxRgOAAggRhyWMoOwqKgoq6GhIZe3t7eYrq6uHBDb8/Pz27Gysloga/jz588FYGicPn/+/OapU6deOnXq1GdgqPwCOuA31AF/0S0HCCB0xAQNBU4FBQWB0NBQublz59oADV37Hw28ePHi74MHD/6ii3/8+HEFMGQUgQ6WEhQU5AeZBTWTCdkigABC9ylIAZeMjIxQTEyMysaNG/3+/v37AGTgr1+//s2cOfOXm5vbN6Caz8jY1NT0a29v76/v37//g6q9sHfv3khjY2M5YAgJgsyEmg0PYYAAQreUk4+PT8jd3V1l1apVgUAzfoIM2rlz5x9gHH5BtxAdA9PB1zNnzvyB+R6oLxoopgC1nBPZcoAAgiFQnLIDMb+enp5iV1eXBzDeHoI0z58//xcwIX0mZCkMg9S2trb+hFk+ffr0QCkpKVmQ2VA7QHYxAgQQzLesQMwjIiIilZWVZfPu3bstMJ+SYikyBmUzkBnA9HEMyNcCYgmQHVC7mAACCJagOEBBbGdnp7lgwYJEkIavX7/+BcY1SvAaGRl9tba2xohjMTGxL8nJyT+AWQsuxsbG9vnp06e/QWYdPHiwHmiWKlBcCGQXyNcAAQSzmBuoSQqYim3u37+/EKR48uTJv5ANB+bVr7Dga2xs/AkTV1JS+gq0AJyoQIkPWU9aWtoPkPibN2/2A/l6QCwJ9TULQADB4hcY//xKXl5eHt++fbsAUmxhYYHiM1DiAsr9R7ZcVVUVbikIdHd3/0TWIyws/AWYVsByAgICdkAxRSAWAGI2gACClV7C4uLiOv7+/lEgRZ8+ffqLLd6ABck3ZMuB6uCWrlu37je29HDx4kVwQisvL88FFqkaQDERUHADBBAomBl5eHiYgQmLE1hSgQQZgIUD1lJm69atf4HR8R1YKoH5QIPAWWP9+vV/gOI/gHkeQw+wGAXTwAJJ5t+/f/BUDRBA4NIEKMDMyMjICtQIiniG379/4yza7t69+//Lly8oDrty5co/bJaCAEwcZCkwwTJDLWYCCCCwxcDgY3z16hXDnTt3voP4EhISWA0BFgZMwNqHExh3jMiG1tbWsgHjnA2bHmAeBtdWwOL1MycnJ7wAAQggBmi+kgIW/OaKiorJwOLuFShO0LMSMPF9AUYBSpz6+vqixHlOTs4P9MIEWHaDsxSwYMoE2mEGFJcG5SKAAGJCqjv/AbPUn8ePH98ACQQHB6NUmZqamkzABIgSp5s3bwbHORCA1QDLAWZkPc7OzszA8oHl5cuXVy5duvQBGIXwWgoggGA+FgO6xkBNTS28r69vDrT2+Y1cIMDyJchX6KkXVEmAshd6KB06dAic94EO3AzkBwGxPhCLg8ptgACCZyeQp9jZ2b2AmsuAefM8tnxJCk5ISPgOLTKfAdNEOVDMA2QHLDsBBBC8AAFlbmCLwlZISCg5JSVlJizeQAaQaimoWAUFK0g/sGGwHiiWCMS2yAUIQAAxI7c4gEmeFZi4OJ48ecLMzc39CRiEmgEBASxA/QzA8vYvAxEgNjaWZc2aNezAsprp2LFjp4FpZRdQ+AkQvwLij0AMSoC/AQIIXklAC3AVUBoBxmE8sPXQAiyvN8J8fuPGjR/h4eHf0eMdhkENhOPHj8OT+NGjR88BxZuBOA5kJtRseCUBEECMSI0AdmgBDooDaaDl8sASTSkyMlKzpqZGU1paGlS7MABLrX83b978A6zwwakTmE0YgIkSnHpBfGCV+gxYh98qKSk5CeTeAxVeQPwUiN8AMSjxgdLNX4AAYkRqCLBAXcMHtVwSaLkMMMHJAvOq9IQJE9R8fHxElJWV1bEF8aNHj+7t27fvLTDlXwXGLyhoH0OD+DnU0k/QYAa1QP8BBBAjWsuSFWo5LzRYxKFYAljqiAHzqxCwIBEwMTERBdZeoOYMA7Bl+RFYEbwB5oS3IA9D4/IFEL+E4nfQ6IDFLTgvAwQQI5ZmLRtSsINSuyA0uwlBUyQPMPWD20/AKo8ByP4DTJTfgRgUjB+gFoEc8R6amGDB+wu5mQsQQIxYmrdMUJ+zQTM6NzQEeKGO4UJqOzFADQMZ/A1qCSzBfQXi71ALfyM17sEAIIAY8fQiWKAYFgIwzIbWTv4HjbdfUAf8RPLhH1icojfoAQKIEU8bG9kRyF0aRiz6YP0k5C4LsmUY9TtAADEyEA+IVfufGEUAAQYABejinPr4dLEAAAAASUVORK5CYII=") no-repeat 0 0; background-size: 30px 30px; } @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) { #ytBkdBNVuw.moModal a.mo-close-modal { background-image: url(https://freehtml5.b-cdn.net/wp-content/plugins/mailoptin/src/core/src/assets/images/close@2x.png); } } #ytBkdBNVuw.moModal .mo-optin-form-container { max-width: 600px; } #ytBkdBNVuw.moModal .mo-optin-form-container p { margin: 0; } #ytBkdBNVuw div#ytBkdBNVuw_lightbox_container div.mailoptin-powered-by { bottom: -28px; box-sizing: border-box; color: #fff; font-size: 15px; font-weight: 700; letter-spacing: 0; line-height: 15px; margin: 0; position: absolute; text-align: center; width: 100%; font-family: helvetica,arial,sans-serif; } #ytBkdBNVuw div#ytBkdBNVuw_lightbox_container div.mailoptin-powered-by a { background-color: transparent; box-sizing: border-box; color: #fff; font-weight: 700; outline: 0; text-decoration: underline !important; }#ytBkdBNVuw .mo-optin-form-container .mo-optin-spinner { border-radius: inherit; position: absolute; width: 100%; height: 100%; background: #fff url(https://freehtml5.b-cdn.net/wp-content/plugins/mailoptin/src/core/src/assets/images/spinner.gif) 50% 50% no-repeat; left: 0; top: 0; opacity: 0.99; filter: alpha(opacity=80); } #ytBkdBNVuw .mo-optin-form-container .mo-optin-success-close { font-size: 32px !important; font-family: "HelveticaNeue - Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important; color: #282828 !important; font-weight: 300 !important; position: absolute !important; top: 0 !important; right: 10px !important; background: none !important; text-decoration: none !important; width: auto !important; height: auto !important; display: block !important; line-height: 32px !important; padding: 0 !important; -moz-box-shadow: none !important; -webkit-box-shadow: none !important; box-shadow: none !important; } #ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-success-msg { font-size: 21px; font-family: "HelveticaNeue - Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; color: #282828 !important; font-weight: 300; text-align: center; margin: 0 auto; width: 100%; position: absolute !important; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); } #ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-success-msg a { color: #0000EE; text-decoration: underline; } html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .list_subscription-field:not(select), html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .checkbox-field, html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .radio-field, html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .select-field { margin-top: 6px; } html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .checkbox-field, html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .radio-field, html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .select-field { text-align: left; padding: 6px; } html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .checkbox-field label, html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .radio-field label { display: block; text-align: left; margin-top: 6px; } html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .checkbox-field label input, html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .radio-field label input { margin-right: 5px; vertical-align: middle; } html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .select-field select { width: 100%; } html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-fields-wrapper .list_subscription-field:not(select), html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-fields-wrapper .mo-optin-form-custom-field.checkbox-field, html div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-fields-wrapper .mo-optin-form-custom-field.radio-field { padding: 0 !important; border: 0 !important; background: transparent !important; } html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .list_subscription-field label { display: block !important; margin: 5px 0 !important; } html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .list_subscription-field label:last-child { margin: 0; } html div#ytBkdBNVuw .mo-optin-form-container .mo-optin-form-wrapper .mo-optin-fields-wrapper .list_subscription-field input[type=checkbox] { cursor: pointer; } .mailoptin-content-lock { color: transparent!important; text-shadow: rgba(0,0,0,.5) 0 0 10px; -moz-user-select: none; -ms-user-select: none; user-select: none; pointer-events: none; filter: url("data:image/svg+xml;utf9,<svg%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'><filter%20id='blur'><feGaussianBlur%20stdDeviation='10'%20/></filter></svg>#blur"); -webkit-filter: blur(10px); -ms-filter: blur(10px); -o-filter: blur(10px); filter: blur(10px); } div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-headline, div#ytBkdBNVuw div.mo-optin-form-container h2, div#ytBkdBNVuw div.mo-optin-form-container h1 { font-size: 32px !important; }div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-description, div#ytBkdBNVuw div.mo-optin-form-container div#ytBkdBNVuw_lightbox p { font-size: 20px !important; }div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-note { font-size: 16px !important; }@media screen and (max-width: 768px) { div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-headline, div#ytBkdBNVuw div.mo-optin-form-container div#ytBkdBNVuw_lightbox h2, div#ytBkdBNVuw div.mo-optin-form-container div#ytBkdBNVuw_lightbox h1 { font-size: 30px !important; } div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-description, div#ytBkdBNVuw div.mo-optin-form-container div#ytBkdBNVuw_lightbox p { font-size: 20px !important; } div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-note { font-size: 16px !important; } }@media screen and (max-width: 480px) { div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-headline, div#ytBkdBNVuw div.mo-optin-form-container div#ytBkdBNVuw_lightbox h2, div#ytBkdBNVuw div.mo-optin-form-container div#ytBkdBNVuw_lightbox h1 { font-size: 25px !important; } div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-description, div#ytBkdBNVuw div.mo-optin-form-container div#ytBkdBNVuw_lightbox p { font-size: 16px !important; } div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-note, div#ytBkdBNVuw div#ytBkdBNVuw_lightbox .mo-optin-form-note * { font-size: 12px !important; } } #ytBkdBNVuw #ytBkdBNVuw_lightbox .mo-optin-field.mo-optin-form-name-field::-webkit-input-placeholder { color: #000 !important; } #ytBkdBNVuw #ytBkdBNVuw_lightbox .mo-optin-field.mo-optin-form-name-field:-ms-input-placeholder { color: #000 !important; } #ytBkdBNVuw #ytBkdBNVuw_lightbox .mo-optin-field.mo-optin-form-name-field::placeholder { color: #000 !important; } #ytBkdBNVuw #ytBkdBNVuw_lightbox .mo-optin-field.mo-optin-form-email-field::-webkit-input-placeholder { color: #000 !important; } #ytBkdBNVuw #ytBkdBNVuw_lightbox .mo-optin-field.mo-optin-form-email-field:-ms-input-placeholder { color: #000 !important; } #ytBkdBNVuw #ytBkdBNVuw_lightbox .mo-optin-field.mo-optin-form-email-field::placeholder { color: #000 !important; } div#ytBkdBNVuw .mo-mailchimp-interest-container { margin: 0 10px 2px; } div#ytBkdBNVuw .mo-mailchimp-interest-label { font-size: 16px; margin: 5px 0 2px; } div#ytBkdBNVuw .mo-mailchimp-interest-category-label { font-size: 14px; margin: 5px 0 2px; } div#ytBkdBNVuw input.mo-mailchimp-interest-choice { line-height: normal; border: 0; margin: 0 5px; } div#ytBkdBNVuw span.mo-mailchimp-choice-label { vertical-align: middle; font-size: 14px; } div#ytBkdBNVuw .mo-mailchimp-interest-choice-container { margin: 5px 0; }</style><div id="ytBkdBNVuw_lightbox" class="mo-optin-form-wrapper mo-has-name-email moEleganceModal" style="position: relative;margin-right: auto;margin-left: auto;background-color: #ffffff;border-color: #ffffff;line-height: normal;"><form method="post" class='mo-optin-form' id='ytBkdBNVuw_lightbox_form' style='margin:0;'><a href='#' rel="moOptin:close" title="Close optin form" class="mo-optin-form-close-icon moEleganceModalclose" style=''></a><h2 class="mo-optin-form-headline moElegance_header" style="color: #000000; padding: 0;">Download This Template For Free</h2><div class="mo-optin-form-description moElegance_description" style="color: #777777;"><p>Enter your email or log in to access all our templates</p></div><div class="mo-optin-error " style=''>Invalid email address</div><div class="mo-optin-fields-wrapper" style=""><input id="ytBkdBNVuw_lightbox_name_field" class="mo-optin-field mo-optin-form-name-field moEleganceModal_input_fields" style='color: #000;height: auto;' type="text" placeholder="First name" name="mo-name" value="" autocomplete='on'> <input id="ytBkdBNVuw_lightbox_email_field" class="mo-optin-field mo-optin-form-email-field moEleganceModal_input_fields" style="color: #000;height: auto;" type="email" placeholder="Email address" name="mo-email" value="" autocomplete='on'> <div style='margin: 5px 0' class="mo-g-recaptcha mo-optin-form-custom-field" data-type="v2" data-sitekey="6LdE8yUUAAAAAK-A0ZHYZAbWnBwfW8An0mGikURE" data-theme='light' data-size='normal'></div><input id="ytBkdBNVuw_lightbox_submit_button" class="mo-optin-form-submit-button moEleganceModal_button" style="background: #28cc9e;color: #ffffff;height: auto;text-shadow: none;" type="submit" value="Send to my email address"> </div><input id="ytBkdBNVuw_lightbox_cta_button" class="mo-optin-form-cta-button moEleganceModal_button" style="background: #2785C8;color: #ffffff;height: auto;text-shadow: none;font-family: 'Titillium Web', Helvetica, Arial, sans-serif;display: none;" type="submit" value="Take Action Now!"> <div class="mo-optin-form-note moElegance_note" style="color: #000000;"><span class="mo-note-content"><span><em>We promise not to spam you. You can unsubscribe at any time.</em></span></span></div><input id='ytBkdBNVuw_lightbox_honeypot_email_field' type='text' name='mo-hp-email' value='' style='display:none'/><input id="ytBkdBNVuw_lightbox_honeypot_website_field" type="text" name="mo-hp-website" value="" style="display:none"/></form><div class='mo-optin-spinner' style='display:none'></div><div class="mo-optin-success-msg" style="display:none">Thanks, please check your inbox for the email confirmation.<br><br>Once confirmed you will be able to download all the free templates from our website 🎉<br><br>Make sure to check your spam folder if you don't see the confirmation email within 5 minutes.</div></div></div><input id="ytBkdBNVuw_lightbox_honeypot_timestamp" type="hidden" name="mo-timestamp" value="1769884897" style="display:none"/></div><!-- / MailOptin WordPress plugin. -->
+
+</body>
+</html>
