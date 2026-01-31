@@ -1,24 +1,24 @@
-FROM centos:7
+FROM ubuntu:22.04
 
 LABEL maintainer="parttimewarrior34@gmail.com"
 
-# Install required packages
-RUN yum -y update && \
-    yum install -y httpd unzip && \
-    yum clean all
+# Avoid interactive prompts
+ENV DEBIAN_FRONTEND=noninteractive
 
-# Apache document root
-WORKDIR /var/www/html
+# Install Apache and unzip
+RUN apt-get update && \
+    apt-get install -y apache2 unzip && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
 
-RUN curl -L -o photogenic.zip \
-    https://freehtml5.co/photogenic-free-bootstrap-portfolio-website-template/
+# Copy website content
+COPY html/ /var/www/html/
 
-RUN unzip photogenic.zip && \
-    cp -rvf photogenic/* . && \
-    rm -rf photogenic photogenic.zip
+# Correct permissions
+RUN chown -R www-data:www-data /var/www/html
 
-# Expose Apache port
+# Expose HTTP port
 EXPOSE 80
 
-# Run Apache in foregroud
-CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
+# Run Apache in foreground
+CMD ["apachectl", "-D", "FOREGROUND"]
