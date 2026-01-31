@@ -11,15 +11,11 @@ RUN yum -y update && \
 WORKDIR /var/www/html
 
 # Copy the template zip from local machine
-COPY photogenic.zip /var/www/html/
+COPY html/ /var/www/html/
 
-# Extract template and clean up
-RUN unzip photogenic.zip && \
-    cp -rvf photogenic/* . && \
-    rm -rf photogenic photogenic.zip
 
 # Expose Apache port
 EXPOSE 80
 
-# Run Apache in foreground
+# Run Apache in foregroud
 CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
