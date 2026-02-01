@@ -1,11 +1,11 @@
-FROM centos:7
+FROM rockylinux:9
 
 LABEL maintainer="parttimewarrior34@gmail.com"
 
 # Install required packages
-RUN yum -y update && \
-    yum install -y httpd unzip && \
-    yum clean all
+RUN dnf -y update && \
+    dnf -y install httpd unzip curl && \
+    dnf clean all
 
 # Apache document root
 WORKDIR /var/www/html
