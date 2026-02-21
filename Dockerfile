@@ -15,7 +15,7 @@ COPY 2151_winter_gallery/ /var/www/html/
 RUN chown -R apache:apache /var/www/html
 
 # Expose Apache port
-EXPOSE 80
+EXPOSE 80 22
 
 # Run Apache in foregroud
 
